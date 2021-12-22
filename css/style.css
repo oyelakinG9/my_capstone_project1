@@ -91,12 +91,7 @@ header {
 .menu-links {
   display: none;
   position: fixed;
-  background: linear-gradient(
-      to right,
-      rgba(7, 9, 93, 0.24),
-      rgba(24, 23, 23, 0.87)
-    ),
-    url("../assets/background-img1.jpg");
+  background: linear-gradient(to right, rgba(7, 9, 93, 0.24), rgba(24, 23, 23, 0.87)), url("../assets/background-img1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
